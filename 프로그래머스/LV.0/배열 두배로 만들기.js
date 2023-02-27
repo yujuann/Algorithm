@@ -6,3 +6,6 @@ function solution(numbers) {
 // solution함수에 완성시켰습니다.
 
 // const solution = numbers => numbers.map(a => a*2)
+const solution = (numbers) => numbers.map((i) => i *2)
+
+한줄로 만든 배열 2배로 만들기 
