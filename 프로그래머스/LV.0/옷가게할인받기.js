@@ -8,3 +8,6 @@ function solution(price) {
   }
   return Math.floor(price);
 }
+
+
+if문 조건식 사용해서 Math.floor 소수점 이하 를 버리는 정수를 구하였음
