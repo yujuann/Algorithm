@@ -4,4 +4,3 @@ function solution(cipher, code) {
     .filter((v, i) => (i + 1) % code === 0)
     .join("");
 }
-
